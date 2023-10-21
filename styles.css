@@ -1,15 +1,9 @@
-/* GLOBAL STYLES
--------------------------------------------------- */
-/* Padding below the footer and lighter body text */
-
 body {
   font-family: "Poppins", sans-serif;
-  /* font-family: "Montserrat", sans-serif; */
   background-color: #d7e1e1;
 }
 
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
+/* CUSTOMIZE THE CAROUSEL */
 
 /* Carousel base class */
 .carousel {
@@ -46,8 +40,7 @@ nav {
   font-size: 1.3rem;
 }
 
-/* CONTENT Section
--------------------------------------------------- */
+/* Content Section */
 .content,
 .title-content {
   color: #434d4d;
