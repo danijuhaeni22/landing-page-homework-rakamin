@@ -198,6 +198,27 @@ footer {
     bottom: 90px;
     left: 100px;
   }
+  .back {
+    font-size: 0.7em;
+  }
+}
+
+/* about section */
+.pic {
+  margin-right: 1rem;
+  width: 50%;
+}
+
+.text h2 {
+  font-size: 1em;
+}
+
+.text h5 {
+  font-size: 0.8em;
+}
+
+.text p {
+  font-size: 0.5em;
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -254,6 +275,24 @@ footer {
     position: absolute;
     bottom: 0;
     left: 70px;
+  }
+
+  /* about section */
+  .pic {
+    margin-right: 3rem;
+    width: 50%;
+  }
+
+  .text h2 {
+    font-size: 3em;
+  }
+
+  .text h5 {
+    font-size: 2em;
+  }
+
+  .text p {
+    font-size: 0.8em;
   }
 }
 
@@ -316,6 +355,10 @@ footer {
     color: white;
     position: absolute;
     left: 70px;
+  }
+  /* about section */
+  .pic {
+    margin-right: 4rem;
   }
 }
 
